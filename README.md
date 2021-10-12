@@ -1,2 +1,2 @@
 # Conference_Scheduler
- conference scheduler
+ check documentation provided
